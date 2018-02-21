@@ -1,0 +1,28 @@
+{
+  "name": "promise-status",
+  "version": "0.0.1",
+  "description": "a simple tool to learn promise status",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/promise-status.git"
+  },
+  "keywords": [
+    "promise",
+    "status",
+    "check"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/promise-status/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/promise-status#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "delay": "^2.0.0"
+  }
+}
